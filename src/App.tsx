@@ -1,3 +1,4 @@
+// Data Merger & Analyzer - Client Application Component
 import React, { useState, useEffect, useMemo } from "react";
 import { FileState, MergeConfig, MergeResult } from "./types";
 import { mergeDatasets } from "./utils/dataEngine";

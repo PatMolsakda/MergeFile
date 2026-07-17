@@ -1,6 +1,6 @@
 # 📊 Data Merger & Analyzer
 
-A powerful full-stack web application to merge, align, reconcile, and clean Excel and CSV datasets entirely in the browser. Detect overlaps, resolve discrepancies, and export clean consolidated files in seconds.
+A powerful and intuitive full-stack web application to merge, align, reconcile, and clean Excel and CSV datasets entirely in the browser. Detect overlaps, resolve discrepancies, and export clean consolidated files in seconds.
 
 ---
 
