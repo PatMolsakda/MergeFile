@@ -1,0 +1,6 @@
+{
+  "name": "Data Merger & Analyzer",
+  "description": "A powerful full-stack tool to merge, align, and clean Excel and CSV datasets. Features interactive key matching, source tracking (Origin indicator), discrepancy analysis, and multi-format exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
