@@ -59,9 +59,3 @@ Open your browser and navigate to `http://localhost:3000` to start using the app
   - `App.tsx` - Main interface logic and application wrapper
 - `server.ts` - Local development proxy server
 - `metadata.json` - AI Studio app configuration and capabilities metadata
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
