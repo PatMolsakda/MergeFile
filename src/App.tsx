@@ -237,7 +237,7 @@ export default function App() {
       name: "Customer_Directory_A.xlsx",
       headers: ["Email", "Full_Name", "Role", "Phone", "Last_Active"],
       data: [
-        { Email: "allensak@gmail.com", Full_Name: "allensak", Role: "Lead Developer", Phone: "+1 (123) 456-7890", Last_Active: "2026-07-01" },
+        { Email: "bruce.wayne@wayne.co", Full_Name: "Bruce Wayne", Role: "Lead Developer", Phone: "+1 (123) 456-7890", Last_Active: "2026-07-01" },
         { Email: "john.smith@yahoo.com", Full_Name: "John Smith", Role: "UI Designer", Phone: "234-567-8901", Last_Active: "2026-07-05" },
         { Email: "sarah.connor@gmail.com", Full_Name: "Sarah Connor", Role: "Project PM", Phone: "345-678-9012", Last_Active: "2026-07-10" },
         { Email: "tony.stark@stark.com", Full_Name: "Tony Stark", Role: "CEO & Iron Man", Phone: "999-999-9999", Last_Active: "2026-07-14" },
@@ -251,7 +251,7 @@ export default function App() {
       name: "CRM_Mailing_List_B.csv",
       headers: ["Email", "Phone", "Company", "Country", "Subscribed"],
       data: [
-        { Email: "allensak@gmail.com", Phone: "1234567890", Company: "Stark Labs", Country: "USA", Subscribed: "Yes" },
+        { Email: "bruce.wayne@wayne.co", Phone: "1234567890", Company: "Stark Labs", Country: "USA", Subscribed: "Yes" },
         { Email: "john.smith@yahoo.com", Phone: "234-567-8901", Company: "Design Co", Country: "Canada", Subscribed: "Yes" },
         { Email: "sarah.connor@gmail.com", Phone: "345-678-9999", Company: "Cyberdyne Systems", Country: "USA", Subscribed: "No" }, // conflict on Phone value
         { Email: "bruce.banner@avengers.org", Phone: "555-444-3322", Company: "S.H.I.E.L.D.", Country: "Global", Subscribed: "Yes" }, // Only in B
